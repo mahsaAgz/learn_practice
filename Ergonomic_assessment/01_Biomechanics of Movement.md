@@ -13,8 +13,13 @@ Production of movement
 
 # 1. Locomotion
 ## Walking and Running 
+
 <img src="images/walking_running.JPG" alt="walking and running simple models" width="600" height="400">
 
 ### Walking Gait Cycle
+
 <img src="images/walking_gait_cycle.JPG" alt="Walking Gait Cycle" width="600" height="400">
+
+### Interaction between legs
+
 <img src="images/interaction_between_legs.JPG" alt="Walking Gait Cycle" width="600" height="400">
