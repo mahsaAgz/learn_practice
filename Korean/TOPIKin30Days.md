@@ -1,6 +1,6 @@
 This is the vocabulary from Topik in 30 days
+You can find the audio in this <a href="https://youtube.com/playlist?list=PLISxrQSLlXYbnCzCaBDyyRxgYbzv5rkre&si=Dq4fDD2kqAkmucDC" target="_blank">YouTube Playlist</a>
 
-# Day 1
 # Day 1
 | #  | Korean     | Translation            | Hanja Meanings                       | Example                                                                                     |
 |----|------------|------------------------|--------------------------------------|---------------------------------------------------------------------------------------------|
