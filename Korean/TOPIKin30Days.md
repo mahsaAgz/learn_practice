@@ -48,7 +48,7 @@ You can find the audio in this <a href="https://youtube.com/playlist?list=PLISxr
 | 2  | 대상       | target                 | 대(對): facing, 상(象): image         | "대학생들을 **대상**으로 취직에 관한 설문조사를 실시했습니다. The survey of employment was carried out targeting the university students." |
 | 3  | 설명하다   | explain                | 설(說): explain, 명(明): clear        | "이 문제가 이해가 잘 안 되는데 다시 한번 **설명해** 주세요. It is hard to understand this question, so can you explain it one more time?" |
 | 4  | 연구       | research               | 연(硏): study, 구(究): investigate    | "암에 대한 **연구**가 활발히 진행되고 있습니다. The cancer research is being carried out actively." |
-| 5  | 직접       | in person, directly    | 직(直): straight, 접(接): connect     | "그런 일은 네가 **직접** 하는 것이 좋겠어. It would be better for you to tell that in person." |
+| 5  | 직접       | in person, directly    | 직(直): straight, 접(接): connect     | "그런 일은 네가 **직접** 할하는 것이 좋겠어. It would be better for you to tell that in person." |
 | 6  | 대부분     | most (of)              | 대(大): big, 부분(部分): part         | "책의 내용이 너무 어려워서 **대부분** 이해가 안 돼요. The content of the book is so challenging that I can't understand most of it." |
 | 7  | 물건       | thing, object          | 물(物): thing, 건(件): object         | "이 **물건**은 어디에 사용하는 거예요? What is this thing for?" |
 | 8  | 안내하다   | show                   | 안(案): plan, 내(內): inside          | "외국에서 온 손님들에게 우리 학교를 **안내할** 거예요. We will show our school around to the visitors from other countries." |
