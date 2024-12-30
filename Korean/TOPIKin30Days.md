@@ -39,12 +39,13 @@ You can find the audio in this <a href="https://youtube.com/playlist?list=PLISxr
 | 31  | 관계        | relationship            | 관(關): relation, 계(係): connect    | "성공한 사람들은 대부분 인간 **관계**가 좋았다고 합니다."                                  | 관계를 맺다 (form relationships), 밀접한 관계 (close relation) 관계자 (the persons concerned) 관계당국(the authorities concerned)   |
 | 32  | 기간        | period                  | 기(期): period, 간(間): between      | "A/S **기간**은 구입 후 1년입니다."                                                        | 유효 기간 (validity period), 짧은 기간 (short period)            |
 | 33  | 전문가      | expert                  | 전(專): special, 문(門): field       | "이 분야의 **전문가**가 되고 싶습니다."                                                     | 전문 분야 (specialized field), 전문가의 의견 (expert opinion)    |
-| 34  | 감다        | wash, close, wrap       | -                                    | "아침에 머리 **감느라고** 늦었어요."                                                        | 눈을 감다 (close eyes), 머리를 감다 (wash hair)                  |
-| 35  | 가입 ↔ 탈퇴 | join ↔ withdraw         | 가(加): add, 입(入): enter           | "**가입**은 간단하지만 **탈퇴**는 복잡합니다."                                              | 회원 가입 (membership), 계정 탈퇴 (account withdrawal)           |
-| 36  | 짙다 ↔ 진하다 | dark ↔ deep, strong     | -                                    | "하얀 옷은 **짙은** 색 옷과 같이 빨면 안 됩니다."                                           | 색이 짙다 (dark color), 향이 진하다 (strong scent)               |
-
-
-
+| 34     | 감다       | 1. Wash                  | -              | 아침에 머리 **감느라고** 늦었어요.**                  | 머리를 감다 (wash one’s hair), 감기 (rinsing), 샴푸하다 (shampoo)       |
+|       |                | 2. Close (one's eyes)    | -                     | 눈을 **감고** 나의 미래를 상상해 보았다.            | 눈을 감다 (close one’s eyes), 잠깐 눈을 붙이다 (take a short nap)       |
+|       |                | 3. Put a bandage around  | -                    | 손을 다쳐서 붕대로 **감았어요.**               | 붕대를 감다 (wrap a bandage), 손을 감다 (bandage one’s hand)           |
+| 35     | 가입       | Join                   | 가(加): add, 입(入): enter              | 인터넷 사이트에서 회원 **가입을**  하려면 복잡해요. | 회원 가입 (membership), 신규 가입 (new subscription), 가입비 (joining fee) |
+| 36     | 탈퇴       | Withdraw                | 탈(脫): withdraw, 퇴(退): retreat       | 인터넷 사이트에서 ** 탈퇴하는**  방법을 알려 주시기 바랍니다. | 회원 탈퇴 (membership withdrawal), 계정 삭제 (delete account)          |
+| 37     | 짙다       | Dark                     | -                       | 하얀색 옷을 **짙은**  색 옷과 같이 빨면 안 됩니다. | 색이 짙다 (color is dark), 짙은 향 (strong scent), 짙은 안개 (thick fog) |
+| 38     | 진하다     | Dark                      | 진(濃): dense, strong                  | 하얀색 옷을 **진한** 색 옷과 같이 빨면 안 됩니다. | 진한 커피 (strong coffee), 진한 맛 (rich flavor), 진한 색깔 (deep color) |
 
 # Day 2
 
@@ -83,4 +84,11 @@ You can find the audio in this <a href="https://youtube.com/playlist?list=PLISxr
 | 31 | 관리       | management             | 관(管): manage, 리(理): reason        | "가죽 옷은 멋있기는 하지만 **관리**가 힘들어요." | 관리비 (maintenance fee), 관리하다 (to manage), 체계적인 관리 (systematic management) |
 | 32 | 사실       | truth                  | 사(事): affair, 실(實): real          | "더 이상 숨기지 말고 **사실**을 말해 주세요." | 사실대로 (truthfully), 사실상 (in fact), 사실을 밝히다 (reveal the truth) |
 | 33 | 불편하다   | inconvenient           | 불(不): not, 편(便): convenient       | "엘리베이터가 고장나서 **불편했다**." | 불편을 겪다 (experience inconvenience), 불편한 상황 (uncomfortable situation), 편리하다 (be convenient) |
+| 34     | **걸다**       | 1. **Hang**              | 걸(掛): hang                         | **옷걸이에 걸어서 장롱 안에 넣으시면 됩니다.** (You should hang your outerwear inside the closet.) | 걸이 (hanger), 옷걸이 (clothes hanger), 걸다 (to hang something)   |
+|       |                | 2. **Make**              | 걸(掛): hang                         | **안 그래도 전화를 걸려던 참이었어.** (I was just about to make a phone call.)                    | 전화 걸다 (make a call), 전화를 걸다 (call someone), 걸리다 (be hung) |
+|       |                | 3. **Hit on**            | 걸(掛): hang                         | **저 여자에게 말을 걸어 보고 싶은데 용기가 안 나.** (I want to hit on that girl, but I don’t have the courage.) | 말을 걸다 (approach someone), 용기 (courage), 관심을 보이다 (show interest) |
+| 35     | **감소하다**   | **Decrease**             | 감(減): decrease, 소(少): small       | **매년 출산율이 감소하는데 원인이 무엇일까요?** (The annual birth rate is constantly decreasing; what do you think is the reason?) | 감소율 (rate of decrease), 줄어들다 (shrink), 저하되다 (decline)    |
+| 36     | **증가하다**   | **Increase**             | 증(增): increase, 가(加): add         | **싱글족이 증가함에 따라 1인용 물건이 잘 팔린다고 합니다.** (Single-person household items sell well as single households increase.) | 증가율 (rate of increase), 늘어나다 (grow), 상승하다 (rise)        |
+| 37     | **게다가**     | **All the more**         | -                                    | **안 그래도 길이 복잡한데 교통사고가 났다.** (The road was already crowded but there was an accident.) | 게다가 (additionally), 더불어 (in addition), 또한 (also)           |
+| 38     | **더구나**     | **Moreover**             | -                                    | **더구나 공사까지 해서 하루 종일 차가 막혔다.** (Moreover, on-going construction jammed the traffic all day.) | 더구나 (what’s more), 게다가 (moreover), 심지어 (even)             |
 
