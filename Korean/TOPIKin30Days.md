@@ -40,7 +40,7 @@ You can find the audio in this <a href="https://youtube.com/playlist?list=PLISxr
 
 
 # Day 2
-# Additional Words
+
 
 | #  | Korean     | Translation            | Hanja Meanings                       | Example                                                                                     |
 |----|------------|------------------------|--------------------------------------|---------------------------------------------------------------------------------------------|
