@@ -48,39 +48,39 @@ You can find the audio in this <a href="https://youtube.com/playlist?list=PLISxr
 
 # Day 2
 
+| #  | Korean     | Translation            | Hanja Meanings                       | Example                                                                                     | Related Vocabulary and Notes                                      |
+|----|------------|------------------------|--------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| 1  | 행사       | event                  | 행(行): action, 사(事): affair        | "비가 와서 **행사**가 취소되었습니다. The event was canceled because of the rain." | 행사장 (event venue), 행사 일정 (event schedule), 공식 행사 (official event) |
+| 2  | 대상       | target                 | 대(對): facing, 상(象): image         | "대학생들을 **대상**으로 취직에 관한 설문조사를 실시했습니다." | 대상자 (targeted person), 대상 그룹 (target group), 수상 대상 (award recipient) |
+| 3  | 설명하다   | explain                | 설(說): explain, 명(明): clear        | "이 문제가 이해가 잘 안 되는데 다시 한번 **설명해** 주세요." | 설명서 (manual), 자세히 설명하다 (explain in detail), 설명이 부족하다 (lack explanation) |
+| 4  | 연구       | research               | 연(硏): study, 구(究): investigate    | "암에 대한 **연구**가 활발히 진행되고 있습니다." | 연구소 (research institute), 연구원 (researcher), 연구 과제 (research project) |
+| 5  | 직접       | in person, directly    | 직(直): straight, 접(接): connect     | "그런 일은 네가 **직접** 할하는 것이 좋겠어." | 직접 경험 (firsthand experience), 직접 방문 (visit in person), 직접적으로 (directly) |
+| 6  | 대부분     | most (of)              | 대(大): big, 부분(部分): part         | "책의 내용이 너무 어려워서 **대부분** 이해가 안 돼요." | 대부분의 사람들 (most people), 대부분 시간 (most of the time), 거의 대부분 (almost all) |
+| 7  | 물건       | thing, object          | 물(物): thing, 건(件): object         | "이 **물건**은 어디에 사용하는 거예요?" | 물건값 (price of goods), 물건을 사다 (buy items), 물건을 찾다 (find objects) |
+| 8  | 안내하다   | show                   | 안(案): plan, 내(內): inside          | "외국에서 온 손님들에게 우리 학교를 **안내할** 거예요." | 안내문 (guide notice), 안내 방송 (announcement), 관광 안내 (tourist information) |
+| 9  | 직장       | job                    | 직(職): job, 장(場): place            | "지영 씨가 드디어 좋은 **직장**을 구했대요." | 직장인 (worker), 직장을 다니다 (work at a job), 직장 생활 (work life) |
+| 10 | 참여하다   | participate            | 참(參): participate, 여(與): give     | "모든 일에 적극적으로 **참여하는** 태도가 필요합니다." | 참여율 (participation rate), 행사에 참여하다 (participate in an event), 적극적 참여 (active participation) |
+| 11 | 시작하다   | start                  | 시(始): start, 작(作): make           | "수업을 **시작하기** 전에 출석을 먼저 부르겠어요." | 시작점 (starting point), 새로운 시작 (new start), 시작되다 (be started) |
+| 12 | 변화       | change                 | 변(變): change, 화(化): transform     | "나이가 많은 사람들은 젊은 사람들보다 **변화**에 적응하기 어렵다." | 변화하다 (to change), 큰 변화 (major change), 변화 가능성 (possibility of change) |
+| 13 | 편하다     | comfortable            | 편(便): convenient                    | "이 신발은 정말 **편하네요**." | 불편하다 (inconvenient), 편안한 의자 (comfortable chair), 마음이 편하다 (feel at ease) |
+| 14 | 성공하다   | succeed                | 성(成): achieve, 공(功): merit        | "여러 번의 실패를 거듭한 후 드디어 그 실험에 **성공했다**." | 성공적이다 (successful), 성공 사례 (success case), 성공을 이루다 (achieve success) |
+| 15 | 영향       | influence              | 영(影): shadow, 향(響): sound         | "화가이신 어머니의 **영향**으로 일찍부터 그림을 배우기 시작했어요." | 영향을 미치다 (affect), 영향력 (influence), 환경의 영향 (environmental influence) |
+| 16 | 걱정하다   | worry about            | 걱(憂): worry, 정(情): feeling        | "그 문제는 잘 해결될 테니까 너무 **걱정하지** 마세요." | 걱정거리 (cause of worry), 걱정을 덜다 (reduce worry), 걱정이 많다 (be worried) |
+| 17 | 교통       | traffic                | 교(交): exchange, 통(通): pass        | "우리 학교는 다 좋지만 **교통**이 불편해요." | 교통사고 (traffic accident), 교통편 (transportation means), 교통량 (traffic volume) |
+| 18 | 모으다     | save                   | 모(募): gather                        | "세계 여행을 하기 위해서 돈을 **모으고** 있어요." | 모임 (gathering), 기부금을 모으다 (collect donations), 관심을 모으다 (attract interest) |
+| 19 | 세계       | world                  | 세(世): world, 계(界): boundary       | "**세계** 여러 나라 선수들이 한자리에 모였다." | 세계 평화 (world peace), 세계 기록 (world record), 전 세계 (entire world) |
+| 20 | 신청       | apply                  | 신(申): extend, 청(請): request       | "다음 학기 **신청**은 이번주까지예요." | 신청서 (application form), 신청 기간 (application period), 참가 신청 (apply to participate) |
+| 21 | 오히려     | rather                 | -                                    | "약속 시간에 늦은 친구가 **오히려** 나에게 화를 냈다." | 오히려 낫다 (rather better), 오히려 좋아 (I actually prefer it), 오히려 반대하다 (rather oppose) |
+| 22 | 지역       | area                   | 지(地): land, 역(域): area            | "**지역**의 특성에 맞는 개발이 필요합니다." | 지역 사회 (local community), 지역 주민 (local residents), 지역 특산물 (local specialty) |
+| 23 | 판매하다   | sell                   | 판(販): sell, 매(賣): sell            | "현재 약국에서 판매하는 약을 앞으로 편의점에서 **판매할** 거라고 해요." | 판매량 (sales volume), 판매가 (selling price), 판매원 (salesperson) |
+| 24 | 계속       | continue               | 계(繼): continue, 속(續): continue    | "**계속** 한국에서 살기로 결정했습니다." | 계속되다 (continue), 계속해서 (continuously), 끝없이 계속되다 (go on endlessly) |
+| 25 | 버리다     | throw away             | -                                    | "이 가방은 아직 쓸 만하니까 **버리지** 마세요." | 쓰레기를 버리다 (throw away trash), 버려진 물건 (abandoned item), 버리는 습관 (habit of discarding) |
+| 26 | 경력       | experience             | 경(經): experience, 력(歷): calendar  | "교육 **경력**이 5년 이상 되시는 분들만 지원할 수 있습니다." | 경력 사항 (career details), 경력자 (experienced person), 경력을 쌓다 (build experience) |
+| 27 | 계획       | plan                   | 계(計): plan, 획(劃): draw            | "아무리 **계획**을 세워도 지키지 않으면 소용이 없겠지요." | 계획표 (planner), 계획을 짜다 (make a plan), 계획대로 (as planned) |
+| 28 | 끝나다     | finish                 | 끝(結): end                           | "수리가 **끝났으니까** 찾아가시기 바랍니다." | 일이 끝나다 (finish work), 끝까지 (until the end), 끝마치다 (conclude) |
+| 29 | 어리다     | young                  | -                                    | "그 사람은 **어린** 나이에 이 분야에서 성공했다." | 어리석다 (foolish), 어린 시절 (childhood), 어린아이 (young child) |
+| 30 | 직원       | employee               | 직(職): job, 원(員): member           | "다음 달에 **직원**을 새로 뽑으려고 합니다." | 직원 복지 (employee welfare), 직원 회의 (staff meeting), 회사 직원 (company staff) |
+| 31 | 관리       | management             | 관(管): manage, 리(理): reason        | "가죽 옷은 멋있기는 하지만 **관리**가 힘들어요." | 관리비 (maintenance fee), 관리하다 (to manage), 체계적인 관리 (systematic management) |
+| 32 | 사실       | truth                  | 사(事): affair, 실(實): real          | "더 이상 숨기지 말고 **사실**을 말해 주세요." | 사실대로 (truthfully), 사실상 (in fact), 사실을 밝히다 (reveal the truth) |
+| 33 | 불편하다   | inconvenient           | 불(不): not, 편(便): convenient       | "엘리베이터가 고장나서 **불편했다**." | 불편을 겪다 (experience inconvenience), 불편한 상황 (uncomfortable situation), 편리하다 (be convenient) |
 
-| #  | Korean     | Translation            | Hanja Meanings                       | Example                                                                                     |
-|----|------------|------------------------|--------------------------------------|---------------------------------------------------------------------------------------------|
-| 1  | 행사       | event                  | 행(行): action, 사(事): affair        | "비가 와서 **행사**가 취소되었습니다. The event was canceled because of the rain." |
-| 2  | 대상       | target                 | 대(對): facing, 상(象): image         | "대학생들을 **대상**으로 취직에 관한 설문조사를 실시했습니다. The survey of employment was carried out targeting the university students." |
-| 3  | 설명하다   | explain                | 설(說): explain, 명(明): clear        | "이 문제가 이해가 잘 안 되는데 다시 한번 **설명해** 주세요. It is hard to understand this question, so can you explain it one more time?" |
-| 4  | 연구       | research               | 연(硏): study, 구(究): investigate    | "암에 대한 **연구**가 활발히 진행되고 있습니다. The cancer research is being carried out actively." |
-| 5  | 직접       | in person, directly    | 직(直): straight, 접(接): connect     | "그런 일은 네가 **직접** 할하는 것이 좋겠어. It would be better for you to tell that in person." |
-| 6  | 대부분     | most (of)              | 대(大): big, 부분(部分): part         | "책의 내용이 너무 어려워서 **대부분** 이해가 안 돼요. The content of the book is so challenging that I can't understand most of it." |
-| 7  | 물건       | thing, object          | 물(物): thing, 건(件): object         | "이 **물건**은 어디에 사용하는 거예요? What is this thing for?" |
-| 8  | 안내하다   | show                   | 안(案): plan, 내(內): inside          | "외국에서 온 손님들에게 우리 학교를 **안내할** 거예요. We will show our school around to the visitors from other countries." |
-| 9  | 직장       | job                    | 직(職): job, 장(場): place            | "지영 씨가 드디어 좋은 **직장**을 구했대요. Ji-young finally got a good job." |
-| 10 | 참여하다   | participate            | 참(參): participate, 여(與): give     | "모든 일에 적극적으로 **참여하는** 태도가 필요합니다. You need to participate more actively in every work you do." |
-| 11 | 시작하다   | start                  | 시(始): start, 작(作): make           | "수업을 **시작하기** 전에 출석을 먼저 부르겠어요. I will call roll before I start the class." |
-| 12 | 변화       | change                 | 변(變): change, 화(化): transform     | "나이가 많은 사람들은 젊은 사람들보다 **변화**에 적응하기 어렵다. The old have more trouble adapting to the change." |
-| 13 | 편하다     | comfortable            | 편(便): convenient                    | "이 신발은 정말 **편하네요**. These shoes are really comfortable." |
-| 14 | 성공하다   | succeed                | 성(成): achieve, 공(功): merit        | "여러 번의 실패를 거듭한 후 드디어 그 실험에 **성공했다**. After failing many times, the experiment finally succeeded." |
-| 15 | 영향       | influence              | 영(影): shadow, 향(響): sound         | "화가이신 어머니의 **영향**으로 일찍부터 그림을 배우기 시작했어요. My mother, being the artist, influenced me to learn to draw very early." |
-| 16 | 걱정하다   | worry about            | 걱(憂): worry, 정(情): feeling        | "그 문제는 잘 해결될 테니까 너무 **걱정하지** 마세요. The problem will turn out fine, so do not worry about it." |
-| 17 | 교통       | traffic                | 교(交): exchange, 통(通): pass        | "우리 학교는 다 좋지만 **교통**이 불편해요. The only problem that my school has is the inconvenient transportation." |
-| 18 | 모으다     | save                   | 모(募): gather                        | "세계 여행을 하기 위해서 돈을 **모으고** 있어요. I am saving money to travel around the world." |
-| 19 | 세계       | world                  | 세(世): world, 계(界): boundary       | "**세계** 여러 나라 선수들이 한자리에 모였다. Athletes from all around the world gathered in one place." |
-| 20 | 신청       | apply                  | 신(申): extend, 청(請): request       | "다음 학기 **신청**은 이번주까지예요. The due date to apply for the next semester is by this week." |
-| 21 | 오히려     | rather                 | -                                    | "약속 시간에 늦은 친구가 **오히려** 나에게 화를 냈다. My friend was late for the appointment but she was mad rather than me." |
-| 22 | 지역       | area                   | 지(地): land, 역(域): area            | "**지역**의 특성에 맞는 개발이 필요합니다. The development that suits the aspect of the area under concern is needed." |
-| 23 | 판매하다   | sell                   | 판(販): sell, 매(賣): sell            | "현재 약국에서 판매하는 약을 앞으로 편의점에서 **판매할** 거라고 해요. It has been said that the drugs that are now sold in the pharmacy will be sold in the convenience store." |
-| 24 | 계속       | continue               | 계(繼): continue, 속(續): continue    | "**계속** 한국에서 살기로 결정했습니다. I have decided to keep on living in Korea." |
-| 25 | 버리다     | throw away             | -                                    | "이 가방은 아직 쓸 만하니까 **버리지** 마세요. This bag is still usable so do not throw it away." |
-| 26 | 경력       | experience             | 경(經): experience, 력(歷): calendar  | "교육 **경력**이 5년 이상 되시는 분들만 지원할 수 있습니다. Only the ones who have more than 5 years of teaching experience can apply for the position." |
-| 27 | 계획       | plan                   | 계(計): plan, 획(劃): draw            | "아무리 **계획**을 세워도 지키지 않으면 소용이 없겠지요. It is no use if you plan things over and over and not do it." |
-| 28 | 끝나다     | finish                 | 끝(結): end                           | "수리가 **끝났으니까** 찾아가시기 바랍니다. The repair is done so you should come and pick it up." |
-| 29  | 어리다     | young                  | -                                    | "그 사람은 **어린** 나이에 이 분야에서 성공했다. He became successful in this area at a young age." |
-| 30 | 직원       | employee               | 직(職): job, 원(員): member           | "다음 달에 **직원**을 새로 뽑으려고 합니다. We are planning to hire a new employee next month." |
-| 31 | 관리       | management             | 관(管): manage, 리(理): reason        | "가죽 옷은 멋있기는 하지만 **관리**가 힘들어요. Leather clothes are fashionable but hard to manage." |
-| 32 | 사실       | truth                  | 사(事): affair, 실(實): real          | "더 이상 숨기지 말고 **사실**을 말해 주세요. Do not disguise anymore and just tell me the truth." |
-| 33 | 불편하다   | inconvenient           | 불(不): not, 편(便): convenient       | "엘리베이터가 고장나서 **불편했다**. The elevator was out of order and it was inconvenient." |
